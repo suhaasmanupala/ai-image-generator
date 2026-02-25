@@ -1,7 +1,5 @@
-streamlit>=1.31.0
-requests>=2.31.0
-Pillow>=10.0.0
-python-dotenv>=1.0.0
-huggingface-hub>=0.20.0
-plotly>=5.18.0
-pandas>=2.1.0
+streamlit
+requests
+Pillow
+python-dotenv
+huggingface-hub
